@@ -1,0 +1,14 @@
+Package: MultAlloc
+Type: Package
+Title: Optimal Allocation in Stratified Sampling
+Version: 1.0
+Date: 2015-08-04
+Author: Jose Brito, Pedro Silva, Nelson Maculan and Gustavo Semaan
+Maintainer: Jose Brito <jambrito@gmail.com>
+Description: Integer Programming Formulations Applied to
+    Univariate and Multivariate Allocation Problems
+Imports: Rglpk
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Built: R 3.1.2; ; 2015-12-18 21:48:28 UTC; windows
